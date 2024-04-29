@@ -1,0 +1,6 @@
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\PruebaCpas\Entity\bin\Debug\Entity.dll
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\PruebaCpas\Entity\bin\Debug\Entity.pdb
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\PruebaCpas\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\PruebaCpas\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\PruebaCpas\Entity\obj\Debug\Entity.dll
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\PruebaCpas\Entity\obj\Debug\Entity.pdb
