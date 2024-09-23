@@ -1,0 +1,6 @@
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\Parcial\ENTITY\bin\Debug\ENTITY.dll
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\Parcial\ENTITY\bin\Debug\ENTITY.pdb
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\Parcial\ENTITY\obj\Debug\ENTITY.csproj.AssemblyReference.cache
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\Parcial\ENTITY\obj\Debug\ENTITY.csproj.CoreCompileInputs.cache
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\Parcial\ENTITY\obj\Debug\ENTITY.dll
+C:\Users\LUIS MANUEL\Downloads\PROGRAMAR EN C#\Parcial\ENTITY\obj\Debug\ENTITY.pdb
